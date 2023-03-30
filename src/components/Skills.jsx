@@ -35,24 +35,24 @@ const Skills = () => {
       title: "React",
       style: "shadow-blue-600",
     },
-    {
-      id: 5,
-      src: nextjs,
-      title: "Next JS",
-      style: "shadow-white",
-    },
+    // {
+    //   id: 5,
+    //   src: nextjs,
+    //   title: "Next JS",
+    //   style: "shadow-white",
+    // },
     {
       id: 6,
       src: tailwind,
       title: "Tailwind",
       style: "shadow-sky-400",
     },
-    {
-      id: 7,
-      src: graphql,
-      title: "GraphQL",
-      style: "shadow-pink-400",
-    },
+    // {
+    //   id: 7,
+    //   src: graphql,
+    //   title: "GraphQL",
+    //   style: "shadow-pink-400",
+    // },
     {
       id: 8,
       src: github,

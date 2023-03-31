@@ -11,9 +11,14 @@ function App() {
     <div className="">
       <NavBar />
       <Home />
+      {/* <div style={{height:100,width:100}}></div> */}
       <About /> 
+      {/* <div ></div> */}
       <Portfolio />
+      {/* <div ></div> */}
+
       <Skills/>
+      {/* <div ></div>  */}
       <Contact />
       <SocialLinks />
     </div>

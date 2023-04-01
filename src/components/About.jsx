@@ -14,8 +14,6 @@ const About = () => {
         </div>
         <p className="text-xl md:mt-10 text-justify">
         Hi, my name is Pushpraj Paroha, and I am currently pursuing a Bachelor of Engineering degree with a specialization in Electronics and Communication Engineering from University Institute of Technology, Barkatullah University.My passion lies in problem-solving and full-stack web development, which has led me to become proficient in various web technologies such as HTML, CSS, JavaScript, jQuery, ReactJS, NodeJS, ExpressJS, and MongoDB. I have demonstrated my skills by solving over 300 problems on the GeeksforGeeks platform.
-
-
         </p>
 
         <br />

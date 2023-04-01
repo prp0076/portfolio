@@ -13,23 +13,15 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl md:mt-10 text-justify">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores
-          qui fugit numquam! Cum vitae temporibus molestiae dicta illum
-          laboriosam similique at mollitia nihil iusto repellat numquam eos illo
-          perspiciatis a unde minima commodi id cupiditate laborum iste, beatae
-          maiores. Voluptatum quisquam dignissimos tempore asperiores sit
-          ratione officiis officia alias vitae.
+        Hi, my name is Pushpraj Paroha, and I am currently pursuing a Bachelor of Engineering degree with a specialization in Electronics and Communication Engineering from University Institute of Technology, Barkatullah University.My passion lies in problem-solving and full-stack web development, which has led me to become proficient in various web technologies such as HTML, CSS, JavaScript, jQuery, ReactJS, NodeJS, ExpressJS, and MongoDB. I have demonstrated my skills by solving over 300 problems on the GeeksforGeeks platform.
+
+
         </p>
 
         <br />
 
         <p className="text-xl text-justify">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores
-          qui fugit numquam! Cum vitae temporibus molestiae dicta illum
-          laboriosam similique at mollitia nihil iusto repellat numquam eos illo
-          perspiciatis a unde minima commodi id cupiditate laborum iste, beatae
-          maiores. Voluptatum quisquam dignissimos tempore asperiores sit
-          ratione officiis officia alias vitae.
+        In addition to my technical skills, I have completed several projects, including Dstore, a fully functional e-commerce store, and MovieX, a platform for watching and searching movies. These projects have given me practical experience in web development and have helped me to hone my problem-solving skills.
         </p>
       </div>
     </div>

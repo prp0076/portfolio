@@ -10,7 +10,7 @@ const SocialLinks = () => {
       id: 0,
       child: (
         <>
-          Code <SiGeeksforgeeks size={30} />
+          GFG <SiGeeksforgeeks size={30} />
         </>
       ),
       href: "https://auth.geeksforgeeks.org/user/pushpraj_07/",

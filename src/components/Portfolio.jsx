@@ -27,28 +27,7 @@ const Portfolio = () => {
       href:"https://prp0076.github.io/Menswear/",
       code:"https://github.com/prp0076/Menswear"
 
-    },
-    // {
-    //   id: 4,
-    //   src: reactSmooth,
-    //   href:"https://tangerine-fox-825b79.netlify.app/",
-    //   code:"https://github.com/prp0076/Dstore-Ecommerce"
-
-    // },
-    // {
-    //   id: 5,
-    //   src: installNode,
-    //   href:"https://tangerine-fox-825b79.netlify.app/",
-    //   code:"https://github.com/prp0076/Dstore-Ecommerce"
-
-    // },
-    // {
-    //   id: 6,
-    //   src: reactWeather,
-    //   href:"https://tangerine-fox-825b79.netlify.app/",
-    //   code:"https://github.com/prp0076/Dstore-Ecommerce"
-
-    // },
+    }
   ];
 
   return (

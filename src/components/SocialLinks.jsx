@@ -2,9 +2,20 @@ import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
+import {SiGeeksforgeeks} from "react-icons/si";
 
 const SocialLinks = () => {
   const links = [
+    {
+      id: 0,
+      child: (
+        <>
+          Code <SiGeeksforgeeks size={30} />
+        </>
+      ),
+      href: "https://auth.geeksforgeeks.org/user/pushpraj_07/",
+      style: "rounded-tr-md", 
+    },
     {
       id: 1,
       child: (
@@ -13,7 +24,7 @@ const SocialLinks = () => {
         </>
       ),
       href: "https://www.linkedin.com/in/pushpraj-paroha",
-      style: "rounded-tr-md",
+      // style: "rounded-tr-md",
     },
     {
       id: 2,

@@ -11,13 +11,13 @@ const Portfolio = () => {
     {
       id: 1,
       src: dstore,
-      href:"https://tangerine-fox-825b79.netlify.app/",
+      href:"https://dstore-ecommerce-fox-825b79.netlify.app/",
       code:"https://github.com/prp0076/Dstore-Ecommerce"
     },
     {
       id: 2,
       src: Movix,
-      href:"https://thunderous-cascaron-53e154.netlify.app/",
+      href:"https://moviex-hamster-61d783.netlify.app/",
       code:"https://github.com/prp0076/MovieX"
 
     },

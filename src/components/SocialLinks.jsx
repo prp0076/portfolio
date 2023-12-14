@@ -52,7 +52,7 @@ const SocialLinks = () => {
         </>
       ),
       style: "rounded-br-md",
-      href: "/resume.pdf",
+      href: "/pushpraj_paroha.pdf",
       download: true,
     },
   ];

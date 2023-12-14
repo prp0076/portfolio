@@ -6,21 +6,38 @@ import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
-import node  from "../assets/node.png"
-
+import node  from "../assets/node.png";
+import scss from "../assets/sass logo.png";
+import c from "../assets/c++ logo.png";
+import bootstrap from "../assets/bootstrap-logo-shadow.png";
+import expre from "../assets/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png";
+import mong from "../assets/mongo db logo.png";
+import mys from "../assets/mysql logo.png";
 const Skills = () => {
   const techs = [
     {
       id: 1,
       src: html,
-      title: "HTML",
+      title: "HTML/HTML5",
       style: "shadow-orange-500",
     },
     {
       id: 2,
       src: css,
-      title: "CSS",
+      title: "CSS/CSS3",
       style: "shadow-blue-500",
+    },
+    {
+      id: 8,
+      src: scss,
+      title: "SASS",
+      style: "shadow-pink-400",
+    },
+    {
+      id: 9,
+      src: bootstrap,
+      title: "BootStrap5",
+      style: "shadow-purple-400",
     },
     {
       id: 4,
@@ -42,18 +59,35 @@ const Skills = () => {
       style: "shadow-blue-600",
     },
     {
+      id: 10,
+      src: mong,
+      title: "MonGo Db",
+      style: "shadow-green-400",
+    },
+    {
+      id: 12,
+      src: expre,
+      title: "Express",
+      style: "shadow-gray-400",
+    },
+    {
       id: 6,
       src: node,
       title: "Node JS",
       style: "shadow-green-400",
     },
-    
-    // {
-    //   id: 7,
-    //   src: graphql,
-    //   title: "GraphQL",
-    //   style: "shadow-pink-400",
-    // },
+    {
+      id: 11,
+      src: mys,
+      title: "MySql",
+      style: "shadow-blue-400",
+    },
+    {
+      id: 12,
+      src: c,
+      title: "C++",
+      style: "shadow-blue-400",
+    },
     {
       id: 7,
       src: github,

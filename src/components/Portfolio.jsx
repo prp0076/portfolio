@@ -1,13 +1,31 @@
 import React from "react";
 import dstore from "../assets/portfolio/dstore.jpg";
-// import installNode from "../assets/portfolio/installNode.jpg";
 import Menswear from "../assets/portfolio/menswear.jpg";
 import Movix from "../assets/portfolio/movix.jpg";
-// import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
-// import reactWeather from "../assets/portfolio/reactWeather.jpg";
+import dineStay from "../assets/portfolio/dinestay.png";
+import Medalert from "../assets/portfolio/medalert.png";
+import Evyapar from "../assets/portfolio/evyapar.png";
 
 const Portfolio = () => {
-  const portfolios = [
+  const portfolios = [ 
+    {
+      id: 4,
+      src: Evyapar,
+      href:"https://github.com/prp0076/evyapaar",
+      code:"https://github.com/prp0076/evyapaar"
+    },
+    {
+      id: 5,
+      src: dineStay,
+      href:"https://dinestay.onrender.com/",
+      code:"https://github.com/prp0076/dinestay"
+    },
+    {
+      id: 6,
+      src:Medalert ,
+      href:"https://medalertlife.com/",
+      code:"https://github.com/prp0076/MedAlert"
+    },
     {
       id: 1,
       src: dstore,
